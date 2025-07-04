@@ -33,7 +33,7 @@ public class loops {
 
 
     // do-while
-    // break
+    // break condition
     // do {
     // System.out.print("Enter a num: ");
     // int n = sc.nextInt();
@@ -43,7 +43,7 @@ public class loops {
     //   System.out.println(n);
     // } while(true);
 
-    // continue
+    // continue condition 
     // do{
     //   System.out.print("Enter a number : "); 
     //   int n = sc.nextInt();
@@ -72,12 +72,16 @@ public class loops {
     //   System.out.println(n + " is not prime");
     //   } 
 
-    // Writeaprogramthatreadsasetofintegers,andthenprintsthesumoftheeven and odd integers.
+
+
+
+    // Write a program that reads a set of integers, and then prints the sum of the even and odd integers.
     // int number;
     // int evenSum = 0;
     // int oddSum = 0;
     // int choice;
 
+    // Scanner sc = new Scanner(System.in);
     // do {
     //   System.out.print("Enter a number: ");
     // number = sc.nextInt();
@@ -97,7 +101,7 @@ public class loops {
 
 
 
-    //  Write a program to find the factorialof any number entered by the user
+    //  Write a program to find the factorial of any number entered by the user
     // System.out.print("Enter a number to find factorial: ");
     // int n = sc.nextInt();
     // int fact = 1;

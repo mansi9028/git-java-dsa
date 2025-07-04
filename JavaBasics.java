@@ -2,7 +2,7 @@
 public class JavaBasics {
   public static void main(String args[]) {
     // Scanner sc = new Scanner(System.in);
-    // tax calculator
+    // // income tax calculator
     // int income = sc.nextInt();
     // int tax = 0;
     // if(income < 500000) {
@@ -45,12 +45,13 @@ public class JavaBasics {
     // System.out.println(result);
 
     // switch statements -- calculator
+
     /*System.out.println("Enter a: ");
     int a = sc.nextInt();
     System.out.println("Enter b: ");
-
     int b = sc.nextInt();
     System.out.println("Enter operator: ");
+
 
     char opr = sc.next().charAt(0);
     switch(opr) {
