@@ -38,5 +38,5 @@ Java offers strong type safety, object-oriented features, and a robust standard 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/DSA-Java.git
-   cd DSA-Java
+   git clone https://github.com/mansi9028/git-java-dsa.git
+   cd git-java-dsa
